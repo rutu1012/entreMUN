@@ -12,6 +12,10 @@ body {
   color: white;
 }
 
+.show{
+  font-size:1px !important;
+}
+
 .titleComing{
   font-size: 4vw;
 }
